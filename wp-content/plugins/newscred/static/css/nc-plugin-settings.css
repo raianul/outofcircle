@@ -1,0 +1,438 @@
+.form {
+    margin: 10px 0 10px;
+    padding: 0
+}
+nc-article-list .form input#nc-search {
+    width: 175px
+}
+
+.clear {
+    overflow: hidden;
+    width: 100%
+}
+
+.contenthover {
+    padding: 19px 5px 5px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: none;
+    color: #fcfcfc;
+    background: url(../images/black85.png) 0 0 repeat
+}
+
+.contenthover a {
+    font-weight: 400;
+    color: #333;
+    font-size: 11px;
+    width: 97px;
+    margin: 0 auto;
+    display: block
+}
+
+.mybackground {
+    background: url(../images/blank.png)
+}
+
+#ncmeta_sectionid .hndle span {
+    background: url(../images/newscred-logo.png) no-repeat 0 0;
+    text-indent: -999em;
+    display: block;
+    margin: 0;
+    padding: 0;
+    height: 25px
+}
+
+#dyna {
+    margin: 0
+}
+
+#dyna li {
+    border-bottom: 1px solid #dbdbdb;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    position: relative
+}
+
+#dyna li:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+    margin-bottom: 0
+}
+
+#dyna li h2 {
+    font-size: 13px;
+    color: #21759b;
+    font-weight: 700;
+    margin: 0;
+    padding: 0 0 3px;
+    line-height: 14px;
+    white-space: nowrap;
+    overflow: hidden
+}
+
+#dyna li h2 a:hover {
+    color: #e30613
+}
+
+#dyna li span {
+    color: #999;
+    font-size: 11px;
+    background: url(../images/date-button.gif) no-repeat 0 0;
+    padding-left: 20px
+}
+
+#dyna li span em {
+    background: url(../images/clock-icon.png) no-repeat 0 0;
+    padding-left: 23px;
+    display: inline-block;
+    font-style: normal;
+    margin-left: 10px
+}
+
+#dyna li p {
+    margin: 0;
+    padding: 3px 0
+}
+
+#dyna li p.excerpt {
+    color: #555;
+    font-size: 12px
+}
+
+#dyna li p.tag {
+    margin: 0;
+    padding: 3px 0 0
+}
+
+#dyna li p.tag strong {
+    font-weight: 400;
+    color: #111;
+    font-size: 11px;
+    padding-right: 5px
+}
+
+#dyna li p.tag span {
+    font-size: 11px;
+    color: #666;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    line-height: 13px;
+    background: 0
+}
+
+
+
+#myFeeds-content {
+    margin: 0
+}
+
+#myFeeds-content li {
+    border-bottom: 1px solid #dbdbdb;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    position: relative
+}
+
+#myFeeds-content li:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+    margin-bottom: 0
+}
+
+#myFeeds-content li h2 {
+    font-size: 13px;
+    color: #21759b;
+    font-weight: 700;
+    margin: 0;
+    padding: 0 0 3px;
+    line-height: 14px;
+    white-space: nowrap;
+    overflow: hidden
+}
+
+#myFeeds-content li h2 a:hover {
+    color: #e30613
+}
+
+#myFeeds-content li span {
+    color: #999;
+    font-size: 11px;
+    background: url(../images/date-button.gif) no-repeat 0 0;
+    padding-left: 20px
+}
+
+#myFeeds-content li span em {
+    background: url(../images/clock-icon.png) no-repeat 0 0;
+    padding-left: 23px;
+    display: inline-block;
+    font-style: normal;
+    margin-left: 10px
+}
+
+#myFeeds-content li p {
+    margin: 0;
+    padding: 3px 0
+}
+
+#myFeeds-content li p.excerpt {
+    color: #555;
+    font-size: 12px
+}
+
+#myFeeds-content li p.tag {
+    margin: 0;
+    padding: 3px 0 0
+}
+
+#myFeeds-content li p.tag strong {
+    font-weight: 400;
+    color: #111;
+    font-size: 11px;
+    padding-right: 5px
+}
+
+#myFeeds-content li p.tag span {
+    font-size: 11px;
+    color: #666;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    line-height: 13px;
+    background: 0
+}
+
+
+
+
+ul.tabs {
+    list-style: none;
+    margin: 0 !important;
+    padding: 0;
+    border-bottom: 1px solid #666;
+    height: 30px
+}
+
+ul.tabs li {
+    float: left;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 !important;
+    list-style-image: none !important
+}
+
+ul.tabs a {
+    background: url(../images/blue.png) no-repeat -553px 0;
+    font-size: 13px;
+    display: block;
+    height: 30px;
+    line-height: 30px;
+    width: 81px;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    top: 1px
+}
+
+ul.tabs a:active {
+    outline: 0
+}
+
+ul.tabs a:hover {
+    background-position: -553px -31px;
+    color: #fff
+}
+
+ul.tabs a.current, ul.tabs a.current:hover, ul.tabs li.current a {
+    background-position: -553px -62px;
+    cursor: default !important;
+    color: #000 !important
+}
+
+ul.tabs a.s {
+    background-position: -553px 0;
+    width: 81px
+}
+
+ul.tabs a.s:hover {
+    background-position: -553px -31px
+}
+
+ul.tabs a.s.current {
+    background-position: -553px -62px
+}
+
+ul.tabs a.l {
+    background-position: -248px -0px;
+    width: 174px
+}
+
+ul.tabs a.l:hover {
+    background-position: -248px -31px
+}
+
+ul.tabs a.l.current {
+    background-position: -248px -62px
+}
+
+ul.tabs a.xl {
+    background-position: 0 -0px;
+    width: 248px
+}
+
+ul.tabs a.xl:hover {
+    background-position: 0 -31px
+}
+
+ul.tabs a.xl.current {
+    background-position: 0 -62px
+}
+
+.panes .pane {
+    display: none
+}
+
+.panes div.tab-content {
+    display: none;
+    padding: 15px 10px;
+    border: 1px solid #999;
+    border-top: 0;
+    height: 500px;
+    font-size: 14px;
+    background-color: white;
+    overflow-y: auto;
+    overflow-x: hidden
+}
+
+.tipcontent {
+    display: none
+}
+
+.tipcontent div {
+    width: 400px;
+    background-color: #fff;
+    padding: 8px
+}
+
+.tipcontent div h2 {
+    font-size: 15px;
+    color: #21759b;
+    font-weight: 700;
+    margin: 0;
+    padding: 0 0 3px;
+    line-height: 1.2
+}
+
+.tipcontent div span, .thumbnail-inner div span {
+    color: #999;
+    font-size: 11px;
+    background: url(../images/date-button.gif) no-repeat 0 0;
+    padding-left: 20px
+}
+
+.tipcontent div span em {
+    background: url(../images/clock-icon.png) no-repeat 0 0;
+    padding-left: 23px;
+    display: inline-block;
+    font-style: normal;
+    margin-left: 10px
+}
+
+.thumbnail-inner span em {
+    background: url(../images/size.png) no-repeat 0 0;
+    padding-left: 23px;
+    display: inline-block;
+    font-style: normal;
+    margin-left: 10px;
+    float: right
+}
+
+.tipcontent div p {
+    margin: 0;
+    padding: 0
+}
+
+.tipcontent div p.excerpt, .thumbnail-inner div p.excerpt {
+    color: #555;
+    font-size: 12px;
+    padding-top: 5px
+}
+
+.tipcontent div p.tag, .thumbnail-inner div p.tag {
+    margin: 0;
+    padding: 3px 0 0;
+    color: #000;
+    border-top: 1px solid #666;
+    margin-top: 5px
+}
+
+.tipcontent div p.tag strong, .thumbnail-inner div p.tag strong {
+    font-weight: 400;
+    color: #111;
+    font-size: 11px;
+    padding-right: 5px
+}
+
+.tipcontent div p.tag span {
+    font-size: 11px;
+    color: #666;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    line-height: 13px;
+    background: 0
+}
+
+ul.thumbnail-box {
+    margin: 0;
+    padding: 0
+}
+
+ul.thumbnail-box li {
+    float: left;
+    margin: 0 5px 5px 0;
+    padding: 0;
+    width: 70px;
+    height: 41px
+}
+
+ul.thumbnail-box li img {
+    margin: 0;
+    padding: 0
+}
+
+ul.thumbnail-box li:nth-child(3n+0) {
+    margin-right: 0
+}
+
+.thumbnail-inner p.excerpt {
+    padding-bottom: 12px !important
+}
+
+.thumbnail-inner p {
+    margin: 0;
+    padding: 0
+}
+
+.thumbnail-inner {
+    width: 260px;
+    background-color: #fff;
+    padding: 8px;
+    display: none
+}
+
+.thumbnail-inner p.tag span {
+    background: 0;
+    padding: 0;
+    margin: 0
+}
+
+@-moz-document url-prefix(){.form input#nc-search{width:165px}.thumbnail-inner{width:285px;background-color:#fff;padding:8px;display:none}.thumbnail-inner div img.bimg{width:285px!important;height:auto}} ul.thumbnail-box li.no-margin {
+                                                                                                                                                                                                                margin-right: 0 !important
+                                                                                                                                                                                                            }

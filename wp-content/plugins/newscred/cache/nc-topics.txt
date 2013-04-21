@@ -1,0 +1,22 @@
+[
+    {
+        "name": "TestTopicList", 
+        "editable": true, 
+        "user": {
+            "access_key": "1370330b454c20e6c4c94b99b267f8c9", 
+            "all_content": 1, 
+            "name": "Justin test key", 
+            "super_user": 0, 
+            "expiry_date": null, 
+            "allow_debug": 0
+        }, 
+        "default_whitelist": false, 
+        "topic_filter": {
+            "is_global": 0, 
+            "guid": "e3356b5364b8c38e574f8e56bc62716a", 
+            "description": null
+        }, 
+        "guid": "de4169201fef66dd7cd57a570660fc4f", 
+        "default_blacklist": false
+    }
+]

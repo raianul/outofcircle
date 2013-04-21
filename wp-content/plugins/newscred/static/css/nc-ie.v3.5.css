@@ -1,0 +1,10 @@
+/* new */
+.button.nc-insert-to-post, .button.nc-add-feature-image {
+
+    margin:0;
+    padding:0 4px;
+    font-size: 12px
+}
+.button.nc-add-feature-image {
+    float: right
+}

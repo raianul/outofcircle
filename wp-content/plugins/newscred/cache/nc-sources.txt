@@ -1,0 +1,22 @@
+[
+    {
+        "name": "test list", 
+        "editable": true, 
+        "user": {
+            "access_key": "1370330b454c20e6c4c94b99b267f8c9", 
+            "all_content": 1, 
+            "name": "Justin test key", 
+            "super_user": 0, 
+            "expiry_date": null, 
+            "allow_debug": 0
+        }, 
+        "default_whitelist": false, 
+        "guid": "2d15a6582c1b747af8189c6625e8a14f", 
+        "default_blacklist": true, 
+        "source_filter": {
+            "is_global": 0, 
+            "guid": "d2b91cb23e7b153ef652246fc69e45bd", 
+            "description": null
+        }
+    }
+]

@@ -1,0 +1,17 @@
+#toplevel_page_nc-settings-page .wp-menu-image img {
+    margin: -5px
+}
+.button.nc-article-title {
+    margin-left: 50px;
+    width: 115px
+}
+.button.nc-article-title-removed.nc-active-article {
+    margin-left: 50px;
+    width: 125px
+}
+ul.thumbnail-box li{
+    margin: 0 3px 4px 0 !important;
+}
+#myfeed-category-box input[type="button"]{
+    width: 90px !important;
+}
